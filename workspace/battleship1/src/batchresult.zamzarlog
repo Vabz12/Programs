@@ -1,0 +1,84 @@
+
+C:\windows\system32>D:
+
+D:\uploadedFiles\7d1740a7c3971d4ca614baff08df527-9c454819fecd3c4c>cd D:\uploadedFiles\86467a996471666c88f4cf9eec5f15ec-2aac815fb5ddbacc\ 
+
+D:\uploadedFiles\86467a996471666c88f4cf9eec5f15ec-2aac815fb5ddbacc>C:\ZamApps\ConversionTools\IZArc\izarce -e "D:\uploadedFiles\86467a996471666c88f4cf9eec5f15ec-2aac815fb5ddbacc\p1b2ecmusu2u1b28hpa19gtd4r4.rar" 
+IZArc Command Line Extraction Add-On Version 1.1 (Build: 130)
+Copyright(c) 2007 Ivan Zahariev, All Rights Reserved.
+http://www.izarc.org    contact@izarc.org
+
+
+Archive File: p1b2ecmusu2u1b28hpa19gtd4r4.rar
+
+  extracting: .classpath                                          OK
+  extracting: .project                                            OK
+  extracting: org.eclipse.jdt.core.prefs                          OK
+  extracting: BattleShip$1.class                                  OK
+  extracting: BattleShip$ItemHandler.class                        OK
+  extracting: BattleShip.class                                    OK
+  extracting: Connection.class                                    OK
+  extracting: Demo.class                                          OK
+  extracting: Game$1.class                                        OK
+  extracting: Game$ButtonHandler.class                            OK
+  extracting: Game.class                                          OK
+  extracting: GridArea$MouseHandler.class                         OK
+  extracting: GridArea$MouseMovingHandler.class                   OK
+  extracting: GridArea.class                                      OK
+  extracting: HelpBrowser$1.class                                 OK
+  extracting: HelpBrowser.class                                   OK
+  extracting: LeftField.class                                     OK
+  extracting: LogoPanel.class                                     OK
+  extracting: ObjectPacket.class                                  OK
+  extracting: PlayingField$ButtonHandler.class                    OK
+  extracting: PlayingField.class                                  OK
+  extracting: RightField.class                                    OK
+  extracting: Sound.class                                         OK
+  extracting: battleship.gif                                      OK
+  extracting: battleshipv.gif                                     OK
+  extracting: carrier.gif                                         OK
+  extracting: carrierv.gif                                        OK
+  extracting: fire.gif                                            OK
+  extracting: firex.gif                                           OK
+  extracting: graphics.htm                                        OK
+  extracting: logo.jpg                                            OK
+  extracting: patrol.gif                                          OK
+  extracting: patrolv.gif                                         OK
+  extracting: seawolf.gif                                         OK
+  extracting: seawolfv.gif                                        OK
+  extracting: splash.gif                                          OK
+  extracting: submarine.gif                                       OK
+  extracting: submarinev.gif                                      OK
+  extracting: target.gif                                          OK
+  extracting: water.gif                                           OK
+  extracting: blooey.wav                                          OK
+  extracting: bomb.wav                                            OK
+  extracting: boom.wav                                            OK
+  extracting: explosion.wav                                       OK
+  extracting: loser.wav                                           OK
+  extracting: lostship.wav                                        OK
+  extracting: sonar.wav                                           OK
+  extracting: splash.wav                                          OK
+  extracting: start.wav                                           OK
+  extracting: thunder.wav                                         OK
+  extracting: victorious.wav                                      OK
+  extracting: wait.wav                                            OK
+  extracting: yourTurn.wav                                        OK
+  extracting: BattleShip.java                                     OK
+  extracting: Connection.java                                     OK
+  extracting: Demo.java                                           OK
+  extracting: Game.java                                           OK
+  extracting: GridArea.java                                       OK
+  extracting: HelpBrowser.java                                    OK
+  extracting: ObjectPacket.java                                   OK
+  extracting: PlayingField.java                                   OK
+  extracting: Sound.java                                          OK
+
+D:\uploadedFiles\86467a996471666c88f4cf9eec5f15ec-2aac815fb5ddbacc>C:\ZamApps\ConversionTools\IZArc\izarcc -a "D:\uploadedFiles\86467a996471666c88f4cf9eec5f15ec-2aac815fb5ddbacc\p1b2ecmusu2u1b28hpa19gtd4r4.zip" "*.*" 
+IZArc Command Line Compression Add-On Version 1.1 (Build: 130)
+Copyright(c) 2007 Ivan Zahariev, All Rights Reserved.
+http://www.izarc.org    contact@izarc.org
+
+Archive File: p1b2ecmusu2u1b28hpa19gtd4r4.zip
+
+   adding: .classpath                      
